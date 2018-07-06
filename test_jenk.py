@@ -11,7 +11,7 @@ def dev(num):
     return num/2
 
 def test_dev():
-    assert dev(4) == 3
+    assert dev(4) == 2
 
 
 
